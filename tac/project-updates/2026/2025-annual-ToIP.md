@@ -148,7 +148,6 @@ Community engagement expanded through:
 # Challenges
 
 Key challenges include:
-- collecting and automating project metrics;
 - adapting LFDT reporting structures to standards-focused JDF projects;
 - scaling volunteer coordination across many working groups;
 - and maintaining operational capacity for governance and publication processes.
@@ -158,8 +157,6 @@ Key challenges include:
 # Requests for TAC Support
 
 ToIP would benefit from:
-- improved reporting frameworks for JDF projects;
-- support for metrics and automation tooling;
 - guidance for standards publication lifecycle management;
 - and continued support for collaboration across LFDT projects.
 
@@ -168,5 +165,3 @@ ToIP would benefit from:
 # Lifecycle Assessment
 
 The Trust over IP Foundation continues to demonstrate active governance, strong collaboration, expanding technical scope, and ongoing standards development activity across decentralized digital trust ecosystems.
-
-
